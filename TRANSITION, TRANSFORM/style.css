@@ -1,0 +1,22 @@
+div{
+    height: 200px;
+    width: 200px;
+    background-color: aqua;
+    position: relative;
+    top:100px;
+    left: 100px;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in;
+    /*transition-delay: 2s;*/
+    transform: rotate(45deg);
+    
+    /*transform: scale(2);*/
+}
+
+div:hover{
+    background-color: red;
+    transform: scale(0.5);
+    transform: translate(100px);
+    transform: skew(30deg);
+}
