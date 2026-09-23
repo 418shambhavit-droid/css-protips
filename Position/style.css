@@ -1,0 +1,25 @@
+/*div{
+    position: relative;
+    background-color: aqua;
+    height: 50px;
+    width: 50px;
+    margin: 20px;
+}*/
+div{
+    position: absolute;
+    background-color: aqua;
+    height: 50px;
+    width: 880px;
+    margin: 20px;
+}    
+
+
+#div1{
+    background-color: aqua;
+    left: 50px;
+}   
+#div2{
+    background-color:aqua;
+    left: 50px;
+}
+

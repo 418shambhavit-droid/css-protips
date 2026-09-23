@@ -1,0 +1,20 @@
+#outer{
+    background-color: aqua;
+    width: 400px;
+    font-size: 2rem;
+}
+
+#inner{
+    background-color:bisque;
+    width: 50%;
+}
+
+body{
+    font-size: 20px;
+}
+
+#outer2{
+    background-color: lightgreen;
+    width: 400px;
+    font-size: 2rem;
+}

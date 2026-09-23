@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(255,0,0,0.5);     
+    margin: 20px;
+    display: inline-block;
+}
+
+#div2{
+    /*display: none;   div3 comes in div 2 place of div 2*/
+    visibility: hidden;
+}
